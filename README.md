@@ -38,7 +38,7 @@ Each student will imagine, plan, and execute their own interactive, 2D/3D virtua
 
 ### [Alpha Clip Tutorial](https://www.youtube.com/watch?v=8WAtybRjRkc)
 
-### [Particle Tutorial]([https://www.youtube.com/watch?v=Cxfp4JyLrg0](https://www.blend4web.com/en/community/article/163/))
+### [Particle Tutorial](https://www.blend4web.com/en/community/article/163/)
 
 ### [Water Shader](https://www.blend4web.com/en/forums/topic/174/)
 
