@@ -18,6 +18,30 @@ Become familiarized with a workflow that allows you to create interactive 3D vir
 
 Each student will imagine, plan, and execute their own interactive, 2D/3D virtual scene and publish them online to @etherstan
 
+# Tutorials
+
+### [Blend4Web Documentation](https://www.blend4web.com/doc/en/index.html)
+
+### [Intro to Blend4Web](https://www.youtube.com/watch?v=oASmvujRRr4&t=464s)
+
+### [Matcap Material Tutorial](https://www.youtube.com/watch?v=2JugOChTPPw)
+
+### [Animation, Physics, and Logic Tutorial](https://www.youtube.com/watch?v=830J-a6_8cE)
+
+### [Interaction, Physics, and Logic Tutorial](https://www.youtube.com/watch?v=830J-a6_8cE)
+
+### [Advanced Material Nodes Tutorial](https://www.youtube.com/watch?v=Cxfp4JyLrg0)
+
+### [Cubemap / Environment Tutorial](https://www.youtube.com/watch?v=ZjZRBfajApw&t)
+
+### [Logic Nodes](https://www.youtube.com/watch?v=45LGHMamp5Q)
+
+### [Alpha Clip Tutorial](https://www.youtube.com/watch?v=8WAtybRjRkc)
+
+### [Particle Tutorial]([https://www.youtube.com/watch?v=Cxfp4JyLrg0](https://www.blend4web.com/en/community/article/163/))
+
+### [Water Shader](https://www.blend4web.com/en/forums/topic/174/)
+
 # Schedule  
 
 # **Saturday, Mar 23rd**
@@ -90,6 +114,5 @@ Each student will imagine, plan, and execute their own interactive, 2D/3D virtua
 ### [Megascans](https://quixel.com/)
 
 ### [Textures.com](https://www.textures.com/)
-
 
 
