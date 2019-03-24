@@ -28,6 +28,10 @@ Each student will imagine, plan, and execute their own interactive, 2D/3D virtua
 
 ### [Animation, Physics, and Logic Tutorial](https://www.youtube.com/watch?v=830J-a6_8cE)
 
+### [Principled BDSF Shader Setup in Cycles](https://www.youtube.com/watch?v=4H5W6C_Mbck)
+
+### [Baking from Cycles to "Game" or Real-Time](https://www.youtube.com/watch?v=sB09T--_ZvU&t=215s)
+
 ### [Interaction, Physics, and Logic Tutorial](https://www.youtube.com/watch?v=830J-a6_8cE)
 
 ### [Advanced Material Nodes Tutorial](https://www.youtube.com/watch?v=Cxfp4JyLrg0)
