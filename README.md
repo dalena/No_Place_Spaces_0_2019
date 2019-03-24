@@ -62,6 +62,7 @@ Each student will imagine, plan, and execute their own interactive, 2D/3D virtua
 ### [Git](https://git-scm.com/downloads)
 ### [Github](https://github.com)
 ### [PNGoo](https://pngquant.org/)
+### [BlenderKit](https://www.blenderkit.com/)
 
 # 3D Model Resources
   
